@@ -20,7 +20,7 @@
  * Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston MA 02110-1301, USA.
  *****************************************************************************/
 
-#ifndef EQUALIZER_HPP
+#ifndef EQUALIZER_HPPd
 #define EQUALIZER_HPP
 
 #include "common.hpp"
